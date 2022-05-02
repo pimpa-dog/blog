@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pimpa the Dog!</title>
-    <link>https://pimpa-dog.github.io/blog/posts/</link>
+    <link>https://pimpa-dog.github.io/posts/</link>
     <description>Recent content in Posts on Pimpa the Dog!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 May 2022 00:44:31 +0200</lastBuildDate><atom:link href="https://pimpa-dog.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 00:44:31 +0200</lastBuildDate><atom:link href="https://pimpa-dog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing a second page</title>
-      <link>https://pimpa-dog.github.io/blog/posts/new_page/</link>
+      <link>https://pimpa-dog.github.io/posts/new_page/</link>
       <pubDate>Tue, 03 May 2022 00:44:31 +0200</pubDate>
       
-      <guid>https://pimpa-dog.github.io/blog/posts/new_page/</guid>
+      <guid>https://pimpa-dog.github.io/posts/new_page/</guid>
       <description>This is a new page Test</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://pimpa-dog.github.io/blog/posts/hello/</link>
+      <link>https://pimpa-dog.github.io/posts/hello/</link>
       <pubDate>Mon, 02 May 2022 20:23:11 +0200</pubDate>
       
-      <guid>https://pimpa-dog.github.io/blog/posts/hello/</guid>
+      <guid>https://pimpa-dog.github.io/posts/hello/</guid>
       <description>Hello! I&amp;rsquo;m Pimpa and I&amp;rsquo;m going to tell you my story!</description>
     </item>
     
