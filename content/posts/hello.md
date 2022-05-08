@@ -8,4 +8,5 @@ draft: false
 
 I'm Pimpa and I'm going to tell you my story!
 
+![Pimpa!](/static/pictures/pimpa-hello.jpg "Hello this is me, Pimpa!")
 
