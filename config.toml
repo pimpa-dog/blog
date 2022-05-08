@@ -1,4 +1,4 @@
-baseURL = 'https://pimpa-dog.github.io'
+baseURL = 'https://www.pimpa.dog'
 languageCode = 'en-us'
 title = 'Pimpa the Dog!'
 theme = "ananke"
