@@ -6,23 +6,15 @@
     <description>Recent content on Pimpa the Dog!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 May 2022 00:44:31 +0200</lastBuildDate><atom:link href="https://pimpa-dog.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Testing a second page</title>
-      <link>https://pimpa-dog.github.io/posts/new_page/</link>
-      <pubDate>Tue, 03 May 2022 00:44:31 +0200</pubDate>
-      
-      <guid>https://pimpa-dog.github.io/posts/new_page/</guid>
-      <description>This is a new page Test</description>
-    </item>
-    
+    <lastBuildDate>Mon, 02 May 2022 20:23:11 +0200</lastBuildDate><atom:link href="https://pimpa-dog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>https://pimpa-dog.github.io/posts/hello/</link>
       <pubDate>Mon, 02 May 2022 20:23:11 +0200</pubDate>
       
       <guid>https://pimpa-dog.github.io/posts/hello/</guid>
-      <description>Hello! I&amp;rsquo;m Pimpa and I&amp;rsquo;m going to tell you my story!</description>
+      <description>Hello! I&amp;rsquo;m Pimpa and I&amp;rsquo;m going to tell you my story!
+This is me: </description>
     </item>
     
   </channel>
